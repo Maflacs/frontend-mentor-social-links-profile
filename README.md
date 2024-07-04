@@ -12,7 +12,7 @@
 - HTML5 
 - CSS 
 - Flexbox
-- Grid
+
 
 
 ## Author
