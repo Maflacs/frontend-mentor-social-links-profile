@@ -49,7 +49,7 @@ body {
 .card {
     background-color: var(--dGrey);
     border-radius: 10px;
-    padding: 20px;
+    padding: 1rem;
     text-align: center;
     width: 330px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -89,7 +89,7 @@ h1 {
     background-color: var(--grey);
     color: var(--white);
     text-decoration: none;
-    padding: 10px;
+    padding: .8rem;
     border-radius: 5px;
     margin: 5px 0;
     font-weight: 600;
